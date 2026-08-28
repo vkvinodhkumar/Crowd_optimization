@@ -1048,12 +1048,3 @@ Business Intelligence
 
 ------------------------------------------------------------------------
 
-## 📄 License
-
-Add the appropriate license for your repository, for example:
-
-``` text
-MIT License
-```
-
-if you choose to release the project under the MIT license.
